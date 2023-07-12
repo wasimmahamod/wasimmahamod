@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/md wasim" target="blank"><img src="https://img.shields.io/twitter/follow/md wasim?logo=twitter&style=for-the-badge" alt="md wasim" /></a> </p>
 
-- 🌱 I’m currently learning **Node Js**
 
 - 💬 Ask me about **React , firebase , Web design,Node js **
 
