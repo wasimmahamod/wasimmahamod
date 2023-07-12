@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **react , firebase , Web design**
+- 💬 Ask me about **react , firebase , Web design,Node js **
 
 - ⚡ Fun fact **I Think I am Funny**
 
