@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/md wasim" target="blank"><img src="https://img.shields.io/twitter/follow/md wasim?logo=twitter&style=for-the-badge" alt="md wasim" /></a> </p>
 
 
-- 💬 Ask me about **React , firebase , tailwind css , Web design,Node js **
+- 💬 Ask me about **React, firebase ,MongoDB , express ,  Tailwind CSS, Web design, Node js **
 
 - ⚡ Fun fact **I Think I am Funny**
 
